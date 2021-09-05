@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:my_atividade/pages/Page8.dart';
 import 'package:my_atividade/pages/page1.dart';
 import 'package:my_atividade/pages/page2.dart';
 import 'package:my_atividade/pages/page3.dart';
@@ -8,7 +9,7 @@ import 'package:my_atividade/pages/page6.dart';
 
 void main() {
   runApp(  const MaterialApp(
-    home: Page6(),
+    home: Page8(),
     debugShowCheckedModeBanner: false,
   )
   );

@@ -158,8 +158,6 @@ class _Page6State extends State<Page6> {
                   child: Padding(
                     padding: const EdgeInsets.only(left: 10.0, right: 10),
                     child: Column(
-
-
                       children: [
                         Row(
                           mainAxisAlignment: MainAxisAlignment.spaceBetween,
