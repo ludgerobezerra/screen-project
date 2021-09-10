@@ -163,7 +163,7 @@ class _Page10State extends State<Page10> {
                             Container(
                               decoration: BoxDecoration(
                                   borderRadius: BorderRadius.circular(10),
-                                  color: Colors.purple.shade900,
+                                  color: Colors.purple.shade800,
                                   border: Border.all(color: Colors.white)),
                               child: Row(
                                 children: [
